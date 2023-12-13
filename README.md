@@ -1,0 +1,2 @@
+# omnamoshivay
+new directoey
